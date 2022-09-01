@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on some interestin C++, python project >> numaical simulation methods, physics informed neural nets, robotics, machine learning ...
 - 📫 How to reach me rafay.mhddn@gmail.com, rafay.mohiuddin@tum.de
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafay-m=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 rafay-m/rafay-m is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
