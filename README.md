@@ -5,7 +5,7 @@
 - 📫 How to reach me rafay.mhddn@gmail.com, rafay.mohiuddin@tum.de
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/rafay-m/rafay-m)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafay-m&layout=compact)](https://github.com/rafay-m/rafay-m)
 
 
 <!---
