@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Rafay @rafaymhddn
 - 👀 I’m interested in robotics, computer vision, physics simulation and many other things.
 - 🌱 I recently completed M.Sc from TUM Technical University of Munich, check out my thesis here ➔ [**OpenSU3D**](https://opensu3d.github.io/)
-- 💞️ I’m looking to collaborate on some interestin robtics, computer vision, scene understandinng, physics simulations ...
+- 💞️ I’m looking to collaborate on some interesting robotics, computer vision, scene understanding, and physics simulations projects..."
 - 📫 How to reach me rafay.mhddn@gmail.com, rafay.mohiuddin@tum.de
 
 
