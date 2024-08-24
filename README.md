@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Rafay @rafay-m
-- 👀 I’m interested in computational sciences / mechanics, deep learning methods in physics, robotics, drones and many other things.
-- 🌱 I’m currently studying Computational Mechanics at TUM (Technical University of Munich), School of Engineerng and Design.
-- 💞️ I’m looking to collaborate on some interestin C++, python project >> numaical simulation methods, physics informed neural nets, robotics, machine learning ...
+- 👋 Hi, I’m Rafay @rafaymhddn
+- 👀 I’m interested in robotics, computer vision, physics simulation and many other things.
+- 🌱 I recently completed M.Sc from TUM Technical University of Munich, check out my thesis here ➔ [**OpenSu3D**](https://opensu3d.github.io/)
+- 💞️ I’m looking to collaborate on some interestin robtics, computer vision, scene understandinng, physics simulations ...
 - 📫 How to reach me rafay.mhddn@gmail.com, rafay.mohiuddin@tum.de
 
 
