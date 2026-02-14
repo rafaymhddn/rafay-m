@@ -2,7 +2,7 @@
 - 👀 I’m interested in robotics, computer vision, physics simulation and many other things.
 - 🌱 I am PhD Candidate @ Robotics Perception & Learning Lab (University of Bonn). Perviously, complete M.Sc from TUM Technical University of Munich, check out my thesis here [OpenSU3D](https://opensu3d.github.io/)
 - 💞️ I’m looking forward to collaborate on interesting projects in the area of robotics learning, 3D computer vision, physicsal/spatial ai ..."
-- 📫 How to reach me [rafay.mhddn@gmail.com](mailto:rafay.mhddn@gmail.com), [rmohiudd@uni-bonn.de](mailto:rmohiudd@uni-bonn.de), [rafay.mhddn.github.io](https://rafay.mhddn.github.io)
+- 📫 How to reach me [rafay.mhddn@gmail.com](mailto:rafay.mhddn@gmail.com), [rafay.mhddngithub.io](https://rafaymhddn.github.io)
 
 
 
